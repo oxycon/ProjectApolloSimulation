@@ -1,3 +1,8 @@
+
+Note: this repository contains the simulation code for Project Apollo
+
+Please refer to the original repository for more details on Apollo: https://github.com/oxycon/ProjectApollo 
+
 These files are for a simulation of pressure swing adsorption oxygen concentrator
 
 # References
